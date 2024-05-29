@@ -2,17 +2,15 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arjun-ux&color=blue)
 
-## About Me
+## About Me 💻👋💼🎓🌱
 Saya Arjun, Ingin Menjadi Programmer Tapi Enggan Ngoding.
 
 - 💼 Saya Belum Kerja, Kalo Ada Boleh Deh Saya Ikut.
 - 🎓 Sebenernya Saya Lulusan Ekonomi Syariah.
 - 🌱 Saya Belajar Hampir Gila, Tapi Saya Suka.
 
-# 💻 Tech Stack:
-
-### Languages
-
+# 🌱 Tech Stack:
+Ya tidak menguasai semuanya, akan tetapi pernah menggunakan dalam beberapa tahun ini.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -38,12 +36,12 @@ Saya Arjun, Ingin Menjadi Programmer Tapi Enggan Ngoding.
 ## Top Projects
 Top Project Saya Tidak Di Public
 
-## Connect with Me
+## Social
 Hubungi Saya aja, Jangan Sungkan Sungkan.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-najah)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/arrj.128)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arux899@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 ---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
