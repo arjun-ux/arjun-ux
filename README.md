@@ -1,12 +1,12 @@
 # Hi there, I'm Arjun Najah 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=arjun-ux&color=blue)
 
 ## About Me
 I'm a passionate web developer with extensive experience in building dynamic and responsive websites using modern web technologies.
 
-- 💼 Currently working at [Your Company]
-- 🎓 Graduated from [Your University]
+- 💼 Currently working at Home
+- 🎓 Graduated from UIMSYA Banyuwangi
 - 🌱 Learning more about Full-Stack Development and DevOps
 
 ## Skills
@@ -28,17 +28,13 @@ I'm a passionate web developer with extensive experience in building dynamic and
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-ux&show_icons=true&theme=radical)
 
 ## Connect with Me
 Feel free to reach out to me on these platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-najah)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
-## Fun Fact
-![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
