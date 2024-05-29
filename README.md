@@ -27,7 +27,8 @@ Saya Arjun, Ingin Menjadi Programmer Tapi Enggan Ngoding.
 
 ## GitHub Stats
 
-![Arjun GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-ux&show_icons=true&theme=default)
+![Arjun GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-ux&show_icons=true&theme=tokyonight)
+![Arjun GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-ux&show_icons=true&theme=gruvbox)
 
 ## Top Projects
 Top Project Saya Tidak Di Public
