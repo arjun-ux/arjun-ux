@@ -5,9 +5,9 @@
 ## About Me 💻👋💼🎓🌱
 Saya Arjun, Ingin Menjadi Programmer Tapi Enggan Ngoding.
 
-💼 Saya Belum Kerja, Kalo Ada Boleh Deh Saya Ikut.
-🎓 Sebenernya Saya Lulusan Ekonomi Syariah.
-🌱 Saya Belajar Hampir Gila, Tapi Saya Suka.
+💼 Saya Belum Kerja, Kalo Ada Boleh Deh Saya Ikut.<br>
+🎓 Sebenernya Saya Lulusan Ekonomi Syariah.<br>
+🌱 Saya Belajar Hampir Gila, Tapi Saya Suka.<br>
 
 # 🌱 Tech Stack:
 Ya tidak menguasai semuanya, akan tetapi pernah menggunakan dalam beberapa tahun ini. <br>
