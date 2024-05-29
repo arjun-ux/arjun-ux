@@ -5,9 +5,9 @@
 ## About Me 💻👋💼🎓🌱
 Saya Arjun, Ingin Menjadi Programmer Tapi Enggan Ngoding.
 
-- 💼 Saya Belum Kerja, Kalo Ada Boleh Deh Saya Ikut.
-- 🎓 Sebenernya Saya Lulusan Ekonomi Syariah.
-- 🌱 Saya Belajar Hampir Gila, Tapi Saya Suka.
+💼 Saya Belum Kerja, Kalo Ada Boleh Deh Saya Ikut.
+🎓 Sebenernya Saya Lulusan Ekonomi Syariah.
+🌱 Saya Belajar Hampir Gila, Tapi Saya Suka.
 
 # 🌱 Tech Stack:
 Ya tidak menguasai semuanya, akan tetapi pernah menggunakan dalam beberapa tahun ini. <br>
@@ -39,7 +39,7 @@ Top Project Saya Tidak Di Public
 ## Social
 Hubungi Saya aja, Jangan Sungkan Sungkan.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arrj.128)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arrj.12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-najah)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arux899@gmail.com)
 
