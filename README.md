@@ -1,13 +1,13 @@
 # 👋👋👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=arjun-ux&color=blue)
 
 ## About Me
-I'm a passionate web developer with extensive experience in building dynamic and responsive websites using modern web technologies.
+Saya Arjun, Ingin Menjadi Programmer Tapi Enggan Ngoding.
 
-- 💼 Currently working at [Your Company]
-- 🎓 Graduated from [Your University]
-- 🌱 Learning more about Full-Stack Development and DevOps
+- 💼 Saya Belum Kerja, Kalo Ada Boleh Deh Saya Ikut.
+- 🎓 Sebenernya Saya Lulusan Ekonomi Syariah.
+- 🌱 Saya Belajar Hampir Gila, Tapi Saya Suka.
 
 ## Tech Stack
 
@@ -26,21 +26,17 @@ I'm a passionate web developer with extensive experience in building dynamic and
 ![VPS](https://img.shields.io/badge/-VPS-003B57?style=flat-square&logo=linux&logoColor=white)
 
 ## GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Arjun GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-ux&show_icons=true&theme=radical)
 
 ## Top Projects
-Here are some of my top projects:
-
-- [**Project 1**](https://github.com/yourusername/project1): A brief description of Project 1.
-- [**Project 2**](https://github.com/yourusername/project2): A brief description of Project 2.
-- [**Project 3**](https://github.com/yourusername/project3): A brief description of Project 3.
+Top Project Saya Tidak Di Public
 
 ## Connect with Me
-Feel free to reach out to me on these platforms:
+Hubungi Saya aja, Jangan Sungkan Sungkan.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-najah)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/arrj.128)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arux899@gmail.com)
 
 ---
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arjun-ux.arjun-ux)
