@@ -26,7 +26,8 @@ Saya Arjun, Ingin Menjadi Programmer Tapi Enggan Ngoding.
 ![VPS](https://img.shields.io/badge/-VPS-003B57?style=flat-square&logo=linux&logoColor=white)
 
 ## GitHub Stats
-![Arjun GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-ux&show_icons=true&theme=radical)
+
+![Arjun GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-ux&show_icons=true&theme=default)
 
 ## Top Projects
 Top Project Saya Tidak Di Public
