@@ -28,7 +28,7 @@ Saya Arjun, Ingin Menjadi Programmer Tapi Enggan Ngoding.
 ## GitHub Stats
 
 ![Arjun GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-ux&show_icons=true&theme=tokyonight)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjun-ux&theme=react&hide_border=true&hide=stars,contribs&show_icons=true&include_all_commits=true&count_private=true&line_height=24)](https://github.com/arjun-ux)
+![Arjun GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-ux&show_icons=true&theme=react)
 
 
 ## Top Projects
