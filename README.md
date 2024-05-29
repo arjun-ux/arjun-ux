@@ -1,9 +1,9 @@
 # 👋👋👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=arjun-ux&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=arjun-ux&color=green)
 
 ## About Me 💻👋💼🎓🌱
-Saya Arjun, Ingin Menjadi Programmer Tapi Enggan Ngoding.
+Saya Arjun, Ingin Menjadi Programmer Expert Tapi Enggan Ngoding.
 
 💼 Saya Belum Kerja, Kalo Ada Boleh Deh Saya Ikut.<br>
 🎓 Sebenernya Saya Lulusan Ekonomi Syariah.<br>
