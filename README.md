@@ -39,4 +39,4 @@ Hubungi Saya aja, Jangan Sungkan Sungkan.
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arux899@gmail.com)
 
 ---
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arjun-ux.arjun-ux)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
